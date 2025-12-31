@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+from google import genai
 
 # 🔑 API KEY (temporary – OK for prototype)
 api_key = "AIzaSyB1wkiYky_OSqrKuAfG0NBMc8QurTPXtng"
