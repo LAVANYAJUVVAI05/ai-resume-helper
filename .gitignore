@@ -211,4 +211,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
->>>>>>> 46dc7c2b132dc1790cc94e3952f32014be1c8c60
+.streamlit/secrets.toml
+>>>>>>> 46dc7c2b132dc1790cc94e3952f32014be1c8c60 
